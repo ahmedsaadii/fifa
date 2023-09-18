@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'monu';
+    src: url(monu.ttf.otf);
+}
+
+
+body{
+    background-color: black;
+    overflow-x: hidden;
+    height: 1000px;
+    margin-bottom: 0;
+
+   
+}
+.firstdiv{
+    color: #FFF;
+font-family: 'Space Mono', monospace;
+font-size: 16.806px;
+font-style: normal;
+font-weight: 400;
+line-height: 110%; /* 18.486px */
+letter-spacing: 0.756px;
+text-align: center;
+padding: 20px 0;
+
+}
+.firstdiv p{
+    display: inline;
+    margin: 0 100px;
+    
+    position: relative;
+}
+.firstdiv img{
+    width: 57.515px;
+    height: 38.702px;
+    flex-shrink: 0; 
+    
+     
+}
+.secondiv .hone{
+    color:#ffffff5b;
+    font-family: 'monu';
+    font-size: 122.442px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 87%; /* 106.525px */
+    letter-spacing: 5.51px;
+    text-transform: uppercase;
+   
+    position: relative;
+    top: 100px;
+}
+.secondiv .htwo{
+    color:#ffffff;
+    font-family: 'monu';
+    font-size: 122.442px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 87%; /* 106.525px */
+    letter-spacing: 5.51px;
+    text-transform: uppercase;
+  
+    
+    
+}
+.secondiv{
+    margin-left: 130px;
+    top: 120px;
+    position: relative;
+   
+    
+}
+.secondiv img{
+    bottom: 400px;
+    position:relative;
+    left: 300px;
+    width: 452.959px;
+height: 455.36px;
+flex-shrink: 0;
+
+}
+.Rectangle{
+   position: relative;
+   left: 130px;
+   bottom: 400px;
+}
+.divthree{
+    color: rgb(255, 255, 255);
+    font-family: 'Anton', sans-serif;
+    font-family: 'Borel', cursive;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Space Mono', monospace;
+    font-family: 'Tilt Prism', cursive;
+    font-size: 20px;
+    line-height: 30px;
+    position: relative;
+    bottom: 680px;
+    font-weight: 100;
+    font-style: normal;
+    left: 95%;
+    letter-spacing: 0.96;
+    font-weight: 100;
+}
+.divthree :nth-child(1n+3){
+    opacity: 0.5;
+}
+
+.vectortw{
+    position: relative;
+    top: 40px;
+    right: 40px;
+}
+.fourdiv{
+    color: #FFF;
+    position: relative;
+    bottom: 500px;
+    left: 90px;
+    
+}
+.fourdiv p,h1{
+    position: relative;
+    bottom: 230px;
+    left: 40px;
+}
+   
+.fourdiv h1{
+    position: relative;
+    left: 110px;
+    font-size: 45px ;
+    opacity: 0.5;
+    
+}
+.fourdiv p{
+    font-size: 8px;
+    left: 100px;
+    position: relative;
+    margin-bottom: 150px;
+    font-weight: 100;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.sub{
+ position: relative;
+ left: 170px;
+ bottom: 400px;
+ z-index: -1;
+}
+.fivdiv p{
+    position: relative;
+    width: 13%;
+    color: rgba(255, 255, 255, 0.60) ;
+    margin-bottom: 20px;
+}
+.fivdiv{
+    position: relative;
+    bottom: 1120px;
+    left: 80%;
+  
+}
+.fivdiv a{
+    top: 150px;
+    position: relative;
+    color: black;
+    text-decoration: none;
+    right: 20px;
+    size: 3px;
+}
+.fivdiv h1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
+.sixthdiv{
+    background-color: #B6FF1C;
+    width: 100%;
+height: 64.841px;
+transform: rotate(-2.021deg);
+margin: 0;
+padding: 0;
+position: relative;
+bottom: 1000px;
+
+}
+.sixthdiv img{
+    display: inline-block;
+    margin: 0 70px;
+}
+.sevdiv{
+    
+height: 64.841px;
+transform: rotate(5.966deg);
+flex-shrink: 0;
+border: 3.55px solid #000000;
+background: #FFF;
+margin: 0;
+padding: 0;
+position: relative;
+bottom: 1000px;
+
+
+}
+.sevdiv img{
+    margin: 0 70px;
+}
